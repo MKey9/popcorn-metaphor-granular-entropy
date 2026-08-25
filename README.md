@@ -15,7 +15,7 @@ This document presents the Popcorn Metaphor, a conceptual framework for understa
 
 ## Citation
 
-Keynan, M. *The Popcorn Metaphor: A Framework for Understanding Order, Entropy, and Phase Transitions in Granular Systems.* Zenodo. https://doi.org/10.5281/zenodo.18311268
+Keynan, M. *The Popcorn Metaphor: A Framework for Understanding Order, Entropy, and Phase Transitions in Granular Systems.* Zenodo. https://doi.org/10.5281/zenodo.18311267 (concept DOI — always resolves to the latest version)
 
 ## License
 
